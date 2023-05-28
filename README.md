@@ -21,8 +21,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anushkapatil18&show_icons=true&locale=en&layout=compact" alt="anushkapatil18" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anushkapatil18&show_icons=true&locale=en" alt="anushkapatil18" /></p>
-
 <!---
 anushkapatil18/anushkapatil18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
